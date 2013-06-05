@@ -1,0 +1,14 @@
+
+# Weather
+# API key
+openweathermap_key: 
+# H1 title
+openweathermap_title: Weather
+# City name
+openweathermap_city_name: Los Angeles
+# Units : metric or imperial
+openweathermap_units: imperial
+# Lang : en, ru, it, sp, ua, de, pt, ro, pl, fi, nl, fr, bg, se, zh_tw, zh_cn, tr 
+openweathermap_lang: en
+# cache data to localStorage n seconds
+openweathermap_cache: 3600
